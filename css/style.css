@@ -67,4 +67,5 @@ header {
 
 .pull-right {
 	float: right;
+	border: 5px solid #E5E2DA;
 }
