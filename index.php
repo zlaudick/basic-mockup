@@ -40,7 +40,7 @@
 		</div>
 		<footer>
 			<div class="container">
-				<p class="footer-content">Resistance is futile!</p>
+				<p class="footer-content"><em>Resistance is futile!</em></p>
 			</div>
 		</footer>
 	</body>
