@@ -13,6 +13,7 @@ body {
 .container {
 	margin: 0 auto;
 	width: 1170px;
+	font-family: sans-serif;
 }
 
 .clear {
@@ -62,10 +63,28 @@ header {
 	float: left;
 	margin: 5px;
 	margin-left: 30px;
+	margin-right: 20px;
 	border: 5px solid lightgray;
 }
 
 .pull-right {
 	float: right;
 	border: 5px solid #E5E2DA;
+}
+
+footer {
+	margin: 30px;
+}
+
+.footer-content {
+	margin: 30px;
+}
+
+h1 {
+	margin: 30px;
+}
+
+.mid-content {
+	margin-left: 30px;
+
 }
