@@ -41,3 +41,21 @@ body { width: 100%;}
 /********************************************
 * Your CSS rules go down here
 ********************************************/
+
+header {
+	background-color: #87CEFA;
+	margin: 0;
+	padding: 1px;
+}
+
+.instructions {
+	border: 5px solid lightgray;
+	margin: 30px;
+	padding: 20px;
+}
+
+.pull-left {
+	float: left;
+	margin: 5px;
+	border: 5px solid lightgray;
+}
